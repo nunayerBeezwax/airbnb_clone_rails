@@ -1,0 +1,1 @@
+AirbnbClone::Application.config.secret_key_base = '2f9c076bc01f46db9a62ea607241d1a1b64e0d565f8e2f75fba91e6942b8d721e8304d8c9464d9952f1ffb90c64d72c67ac4c3590c97ccbe75970a77a071ab43'
